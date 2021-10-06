@@ -53,14 +53,14 @@
 	user-select: none;
 }
 .center h1{
-	color: white;
+	color: black;
 	font-size: 70px;
 	width: 900px;
 	font-weight: bold;
 	text-align: center;
 }
 .center h2{
-	color: white;
+	color: black;
 	font-size: 70px;
 	font-weight: bold;
 	margin-top: 10px;
